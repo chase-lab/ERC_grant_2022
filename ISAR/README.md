@@ -34,7 +34,7 @@ Gooriah et al.
 Dryad version 1: June 28 2021.
 
 ## Publication status
-Data archived on Dryad: Gooriah, Leana et al. (2021), Synthesis reveals that island species-area relationships emerge from processes beyond passive sampling, Dryad, Dataset, [https://doi.org/10.5061/dryad.pnvx0k6n0](https://doi.org/10.5061/dryad.pnvx0k6n0)
+Data archived on Dryad: Gooriah, Leana et al. (2021), Synthesis reveals that island species-area relationships emerge from processes beyond passive sampling, Dryad, Dataset, [https://doi.org/10.5061/dryad.pnvx0k6n0](https://doi.org/10.5061/dryad.pnvx0k6n0)  
 Code archived on Zenodo: Leana Gooriah, Shane Blowes, Alban Sagouis, Julian Schrader, Dirk Karger, Holger Kreft, & Jon Chase. (2021, June 28). chase-lab/ISAR_synthesis: Zenodo archiving (Version v1.0). Zenodo. [http://doi.org/10.5281/zenodo.5037070](http://doi.org/10.5281/zenodo.5037070)
 
 
