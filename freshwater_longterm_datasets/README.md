@@ -5,7 +5,7 @@ This data aggregation project aimed at gathering long term data, resembling
 BioTIME typical data sets. We focused on freshwater ecosystems. (Only lakes for now) and included fish, phytoplankton and zooplankton communities (Maybe invertebrates later?)
 
 ## Data aggregation rules
-Data sets were originally searched for among LTER data sets but absent from xisting databases including BioTIME.
+Data sets were originally searched for among LTER data sets but absent from existing databases including BioTIME.
 
 ## Working status
 Data last updated on March 8 2021.
