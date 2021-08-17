@@ -11,5 +11,5 @@ restoration ecology
 Work in progress.
 
 ## Main collaborators
-Emma Ladouceur, Nancy Shackelford, Holly P. Jones, Jonathan Chase,
+Emma Ladouceur (coordinator), Nancy Shackelford (coordinator), Holly P. Jones, Jonathan Chase,
 Lars Brudvig, W. Stanley Harpole, Gustavo Paterno, Kelly Garvy, Lauren Young
