@@ -27,5 +27,5 @@ Used by Emma Ladouceur, Jonathan Chase, Nancy Shackelford, and Masters student N
 ## References used
 See .csv
 
-## Map of the sites
+## Restoration sites
 ![Map_of_the_sites](https://github.com/chase-lab/ERC_grant_2021/blob/main/global_restore_project/map.png?raw=true)
