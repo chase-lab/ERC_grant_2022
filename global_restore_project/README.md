@@ -25,7 +25,7 @@ Shackelford, N., Paterno, G.B., Winkler, D.E. et al. Drivers of seedling establi
 Used by Emma Ladouceur, Jonathan Chase, Nancy Shackelford, and Masters student Nils Waterstadt.
  
 ## References used
-See .csv
+See global_restore_project/dataset_list.csv
 
 ## Restoration sites
 ![Map_of_the_sites](https://github.com/chase-lab/ERC_grant_2021/blob/main/global_restore_project/map.png?raw=true)

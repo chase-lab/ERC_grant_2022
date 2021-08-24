@@ -31,6 +31,7 @@ Chase, Jonathan.
 
 ### BioTIME
 Managed by Anne Magurran and colleagues in Saint Andrews university, BioTIME aggregates time-series of mostly marine but also terrestrial communities globally. Our team extensively collaborated with the BioTIME working group.
+
 #### Publication status
 Dornelas M, Antão LH, Moyes F, Bates, AE, Magurran, AE, et al. BioTIME: A database of biodiversity time series for the Anthropocene. _Global Ecol Biogeogr_. 2018; 27:760 - 786. [https://doi.org/10.1111/geb.12729](https://doi.org/10.1111/geb.12729)
 Code available here: [https://github.com/biotimehub](https://github.com/biotimehub)
@@ -47,4 +48,7 @@ methodology of each time-series.
 Comte L, Carvajal-Quintero J,
 Tedesco PA, et al. RivFishTIME: A global database of fish
 time-series to study global change ecology in riverine
-systems. Global Ecol Biogeogr. 2021;30:38–50. [https://doi.org/10.1111/geb.13210](https://doi.org/10.1111/geb.13210)
+systems. _Global Ecol Biogeogr_. 2021; 30:38–50. [https://doi.org/10.1111/geb.13210](https://doi.org/10.1111/geb.13210)
+
+## References used
+See metacommunity_time_series/dataset_list.csv

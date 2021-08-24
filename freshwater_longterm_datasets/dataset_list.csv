@@ -1,0 +1,88 @@
+﻿dataset_id,reference,DOI,url,download_url,BioTIME_title,download,comment,environmental_parameters
+baikal_phyto,"Zilov: The 60-year data set of plankton dynamics in Lake Baikal, National Center for Ecological Analysis and Synthesis, and Lyubov Izmest'eva. 2006. Lake Baikal Plankton. Knowledge Network for Biocomplexity. doi:10.5063/AA/nceas.290.8",https://doi.org/10.5063/AA/nceas.290.8,https://doi.org/10.5063/AA/nceas.290.8,https://knb.ecoinformatics.org/knb/d1/mn/v2/packages/application%2Fbagit-097/resourceMap_nceas.290.8,not included yet,direct,"# one sampling site 1km from the shore 250m deep to surface
+# samples provided pooled per year, 4 quarters a year every year from 1974 to 1997
+# number of samples per year not provided
+# only 6 taxa:chrysophtye, cryptophyte, cyanobacteria total, diatom, dinoflagellate, green",Watertemp0-50; NAO hurrell; PDO jisao;   AO jisao ; ENSO jisao; Mean snow depth Irkutsk - boulder Snow & Ice data 
+cumbrian_phyto,"Thackeray, S.J.; De Ville, M.M.; Fletcher, J.M.; James, J.B.; Maberly, S.C.; Mackay, E.B.; Winfield, I.J. (2015). Cumbrian Lakes plankton and fish data (1940 to 2013). NERC Environmental Information Data Centre. (Dataset). https://doi.org/10.5285/1de49dab-c36e-4700-8b15-93a639ae4d55",https://doi.org/10.5285/1de49dab-c36e-4700-8b15-93a639ae4d55,https://catalogue.ceh.ac.uk/documents/1de49dab-c36e-4700-8b15-93a639ae4d55,behind a wall,not included yet,none,"# phytoplankton samples from Cumbrian lakes: Blelham Tarn, Esthwaite Water, Windermere north and south basins
+# Lakes were sampled 13 to 48 times a year from 1978 to 2003 (2005 for Esthwaite)
+# 18 taxa",
+ela,"see in ""./data/ELA zoop data/Zooplankton sampling methods at ELA.doc""","see in ""./data/ELA zoop data/Zooplankton sampling methods at ELA.doc""",https://www.iisd.org/ela/our-data/metadata/zooplankton/,"see in ""./data/ELA zoop data/Zooplankton sampling methods at ELA.doc""",not included yet,to do,,
+oneida_benthos,"Lars Rudstam. Benthic invertebrates in Oneida Lake, New York, 1956 to present. Knowledge Network for Biocomplexity. kgordon.4.78. ",kgordon.4.78,https://search.dataone.org/view/kgordon.4.78,https://knb.ecoinformatics.org/knb/d1/mn/v2/packages/application%2Fbagit-097/resourceMap_kgordon.4.78,not included yet. BioTIME has Oneida lake data on molluscs (1912-2017) and zooplankton (60s to present),direct,"# benthos samples of Oneida lake from 1957 to 2019. Samples from deep and shallow ares are provided separately.
+# samples were pooled by depth (shallow or deep) and by year. The number of samples pooled is given",
+oneida_fish_gillnet,"Lars G. Rudstam and James R. Jackson. Gill net survey of fishes of Oneida Lake, New York, 1957 to present. Knowledge Network for Biocomplexity. kgordon.14.129. ",10.5063/AA/kgordon.9.5,https://search.dataone.org/view/kgordon.14.129,https://knb.ecoinformatics.org/knb/d1/mn/v2/packages/application%2Fbagit-097/resourceMap_kgordon.14.129,not included yet. BioTIME has Oneida lake data on molluscs (1912-2017) and zooplankton (60s to present),direct,"# fish abundances per site per year, in 16 sites from 1957 to 2019
+# no standardisation needed except excluding 1957 because of a slightly not standard sampling.",
+oneida_fish_trawl,"Lars G. Rudstam and James R. Jackson. Bottom trawl surveys from Oneida Lake, NY, 1958 to present. Knowledge Network for Biocomplexity. kgordon.19.98. ",kgordon.19.98,https://search.dataone.org/view/kgordon.19.98,https://knb.ecoinformatics.org/knb/d1/mn/v2/packages/application%2Fbagit-097/resourceMap_kgordon.19.98,not included yet. BioTIME has Oneida lake data on molluscs (1912-2017) and zooplankton (60s to present),direct,"# fish composition of trawls in 10 standard stations of Oneida lake from 1964 to 2018.
+# Subset of the data set for standardisation purposes: after 1963, July to October, Only the first survey of each month for each site and then all surveys per year per site are pooled together. Abundances of YOYs and adults are summed.",
+oneida_phytoplankton,"Lars G. Rudstam. Phytoplankton in Oneida Lake, New York, 1975 to present. Knowledge Network for Biocomplexity. kgordon.31.87. ",kgordon.31.87,https://search.dataone.org/view/kgordon.31.87,https://knb.ecoinformatics.org/knb/d1/mn/v2/packages/application%2Fbagit-097/resourceMap_kgordon.31.87,not included yet. BioTIME has Oneida lake data on molluscs (1912-2017) and zooplankton (60s to present),direct,"# Oneida lake phytoplankton sampled. Standardisation necessary: 2 time periods, each providing somewhat similar values from 5 standard stations
+# First time period (1975-1995) samples were taken only from standard stations and we select only values pooled from all 5 stations. This leaves 10 to 22 values per year.
+# second time period (1996-2018) samples where taken only from standard stations. The number of stations is not provided and is assumed to be 5 in all occasions. The number of values per year ranges from 8 to 20. After excluding March and December, most if not all months are sampled at least once each year, so subsampling by selecting months does not work. When several surveys were done in a single month, one can be randomly selected so that all years have 8 samples.
+# standardisation: keeping one survey per month in June July and August and then pooling per year",
+oneida_zooplankton,"Lars G. Rudstam. Zooplankton survey of Oneida Lake, New York, 1964 to present. Knowledge Network for Biocomplexity. kgordon.17.99. ",kgordon.17.99,https://search.dataone.org/view/kgordon.17.99,https://knb.ecoinformatics.org/knb/d1/mn/v2/packages/application%2Fbagit-097/resourceMap_kgordon.17.99,Zooplankton survey of Oneida Lake New York 1964 to present,none,none,none
+pocono,"Williamson, C.E. 2020. Three decades of limnological data from lakes in the Pocono Mountains region, Pennsylvania USA, 1988-2020 ver 5. Environmental Data Initiative. https://doi.org/10.6073/pasta/b1754d3a6b09df0f83976458ceb4b107 (Accessed 2021-04-12).",https://doi.org/10.6073/pasta/b1754d3a6b09df0f83976458ceb4b107,https://doi.org/10.6073/pasta/b1754d3a6b09df0f83976458ceb4b107,https://doi.org/10.6073/pasta/b1754d3a6b09df0f83976458ceb4b107,not included yet,,"# 3 sites sampled 1 to 12 times a year during 10, 18 or 20 years.
+# each year in each site, 1 to 3 out of 4 different methodologies are used
+# unique(ddata[,.(Site, Year,SamplingMethodID)])[, .N, by = .(SamplingMethodID)]
+# SamplingMethodID  N
+# 1:        Method026 20
+# 2:        Method024 20
+# 3:        Method023 28
+# 4:             NULL 39","temp
+temp0.5m
+temp2m
+do
+doc
+chl.a
+chl.sum
+chl.p
+PAR.pclp
+secchi
+ss.10pc.320
+ss.1pc.par
+ss.10pc.par
+ss.10pc.380
+ss.1pc.380
+ss.1pc.320
+ss.10pc.340
+ss.1pc.340
+ss.10pc.305
+ss.1pc.305
+alkalinity
+totalP
+srp
+particulateP
+totalN
+ammonia
+particulateN
+nitrate
+particulateC
+Kd305
+ad.305
+ad.380
+ad.440
+Kd320
+Kd340
+Kd380
+KdPAR
+ad.320
+ad.254
+ad.340
+ss320.400
+ss280.320
+ss350.400
+ss320.380
+ss275.295
+pH"
+SF_estuary,"Bashevkin, S.M., R. Hartman, M. Thomas, A. Barros, C. Burdi, A. Hennessy, T. Tempel, and K. Kayfetz. 2020. Interagency Ecological Program: Zooplankton abundance in the Upper San Francisco Estuary from 1972-2018, an integration of 5 long-term monitoring programs ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/0c400c670830e4c8f7fd45c187efdcb9 (Accessed 2021-04-12).",10.6073/pasta/0c400c670830e4c8f7fd45c187efdcb9,https://portal.edirepository.org/nis/mapbrowse?packageid=edi.539.1,https://portal.edirepository.org/nis/mapbrowse?packageid=edi.539.1,not included yet,direct,"Large data set. # Pros
+# 236 sites with 1 to 20 samples per site/year
+# 44 taxa among which 19 are identified to the species level
+
+# Cons
+# 5 different data sources (i.e. different monitoring programs) with different
+# methods. See ./data/cache/edi.539.1/study_metadata.csv",
+arc,"Luecke, C., Budy, P., O'brien, J. 2020. Zooplankton density for all samples collected from Toolik Lake and lakes near the Toolik Field Station, Arctic LTER 2003 - 2017 Environmental Data Initiative. http://dx.doi.org/10.6073/pasta/fd26f288962dc35c83faac0319c6b046",http://dx.doi.org/10.6073/pasta/fd26f288962dc35c83faac0319c6b046,https://arc-lter.ecosystems.mbl.edu/2003-2017arclterzoops,https://arc-lter.ecosystems.mbl.edu/sites/default/files/data/lakes/2003-2017ArcLTERZoops.csv,not included yet. BioTIME has zooplankton data from the same area between 1983 and 2002,direct,,
+cumbrian_zoo,"Thackeray, S.J.; De Ville, M.M.; Fletcher, J.M.; James, J.B.; Maberly, S.C.; Mackay, E.B.; Winfield, I.J. (2015). Cumbrian Lakes plankton and fish data (1940 to 2013). NERC Environmental Information Data Centre. (Dataset). https://doi.org/10.5285/1de49dab-c36e-4700-8b15-93a639ae4d55",https://doi.org/10.5285/1de49dab-c36e-4700-8b15-93a639ae4d55,https://catalogue.ceh.ac.uk/documents/1de49dab-c36e-4700-8b15-93a639ae4d55,behind a wall,not included yet,none,"# phytoplankton samples from Cumbrian lakes: Blelham Tarn, Esthwaite Water, Windermere north and south basins
+# Lakes were sampled 1 to 50 times a year from 1978 (1983 for Blelham Tarn) to 2010 
+# 4 taxa ZooFilt, Bosmina, Daphnia, TotCalanoids, TotCyclopoids",
+baikal_zoo,"Zilov: The 60-year data set of plankton dynamics in Lake Baikal, National Center for Ecological Analysis and Synthesis, and Lyubov Izmest'eva. 2006. Lake Baikal Plankton. Knowledge Network for Biocomplexity. doi:10.5063/AA/nceas.290.8",https://doi.org/10.5063/AA/nceas.290.8,https://doi.org/10.5063/AA/nceas.290.8,https://knb.ecoinformatics.org/knb/d1/mn/v2/packages/application%2Fbagit-097/resourceMap_nceas.290.8,not included yet,direct,"# one sampling site 1km from the shore 250m deep to surface
+# samples provided pooled per quarter, 4 quarters a year every year from 1948 to 2002
+# number of samples per quarter not provided
+# only 3 taxa: Copepod, Rotifer, BosminaDaphnia",SurfTemp    25Temp    50Temp

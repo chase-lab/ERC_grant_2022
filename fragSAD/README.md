@@ -16,3 +16,4 @@ Code archived on Zenodo: Felix May, Shane Blowes, Katharina Gerstner, Alban Sago
 Used in team manuscript: Chase, J.M., Blowes, S.A., Knight, T.M. et al. Ecosystem decay exacerbates biodiversity loss with habitat loss. Nature 584, 238–243 (2020). [10.1038/s41586-020-2531-2](https://doi.org/10.1038/s41586-020-2531-2)
 
 ## References used
+See FragSAD/dataset_list.csv

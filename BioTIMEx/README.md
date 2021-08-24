@@ -29,3 +29,4 @@ McGill, Brian; McGlinn, Daniel; Sagouis, Alban; Shimadzu, Hideyasu; Supp, Sarah;
 Chase, Jonathan.
 
 ## References used
+See BioTIMEx/dataset_list.csv

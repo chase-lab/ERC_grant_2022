@@ -17,3 +17,4 @@ Code available on GitHub [https://github.com/chase-lab/freshwater_datasets](http
 Used in team manuscript: 
 
 ## References used
+See freshwater_longterm_datasets/dataset_list.csv
